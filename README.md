@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello, everyone! 👋
 
+Well, I'm a mechanical engineer experienced in programming and numeric simulations, especially in Python, C/C++ and Matlab/Simulink.
+You'll find in my repos very random content hahah Yeah, I've been searching about oil, then discrete systems control and now, I'm currently pursuing my Master of Science degree in Aeronautic Engineering on ITA.
+Yeah, hope something makes sense to you ✨ 
 <!--
 **renatattavares/renatattavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
